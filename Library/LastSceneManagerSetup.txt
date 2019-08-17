@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/AR3f-v02a.unity
+  isLoaded: 1
+  isActive: 1
