@@ -1,4 +1,4 @@
-# AR3f-v01b
+# AR3f-v01
 Augmented Reality application for the exhibition on the 3rd floor at YCAM. <br/>
 
 **Functionality** <br/>
