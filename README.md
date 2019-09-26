@@ -11,5 +11,5 @@ Augmented Reality application for the exhibition on the 3rd floor at YCAM. <br/>
 3. scale 3D object using slider <br/> 
 4. rotate 3D object using slider <br/> 
 5. Press the button AllSet to hide sliders and text <br/> 
-6. press the button TogglePlaneDetection to disables the plane <br/> 
+6. press the button TogglePlaneDetection to disable the plane <br/> 
 *see folder “Preview” <br/> 
