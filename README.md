@@ -2,7 +2,7 @@
 Augmented Reality application for the exhibition on the 3rd floor at YCAM. <br/>
 
 **Commit** <br/>
--animated deer adde <br/>
+-animated deer added <br/>
 
 **Instructions for user** <br/>
 1. point your camera at the floor and scan around <br/>
